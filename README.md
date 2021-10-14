@@ -15,6 +15,9 @@ This project generates a readme file based on user input.
 * [License](#license)
 
 * [Questions](#questions)
+## Usage
+
+This application is used to reduce the amount of time it takes to create a read-me file for your project repository.
 
 ## Installation
 Run this command to install dependencies.
@@ -23,9 +26,8 @@ Run this command to install dependencies.
 npm i
 ```
 
-## Usage
 
-This application is used to reduce the amount of time it takes to create a read-me file for your repository.
+## Instructions
 
 After you have installed required dependencies, open integrated terminal for the index.js file and run this command line to run the application.
 
