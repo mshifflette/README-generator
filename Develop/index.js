@@ -137,8 +137,4 @@ If you have any questions about the repo, open an issue or contact me directly a
   });
 });
 
-// TODO: Create a function to initialize app
-// function init() {}
 
-// Function call to initialize app
-// init();
