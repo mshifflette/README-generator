@@ -1,10 +1,10 @@
 
-# README Generator
+# wacky wiki
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-This project generates a readme file based on user input.
+wackskjasdjkfasjdkfasjdhfads
 
 ## Table of Contents 
 
@@ -22,24 +22,24 @@ This project generates a readme file based on user input.
 
 ## Installation
 
-npm i
+dsfasdfasdfasdf
 
 
 ## Usage
 
-used to reduce time it takes to create a readme
+asdfasdfsadf
 
 ## License
 
-This project is licensed under the The MIT License
+This project is licensed under the Mozilla Public License 2.0
     
 ## Contributing
 
-dont
+asdfasdfsadfa
 
 ## Tests
 
-dont
+asdfasdfasdfads
 
 ## Questions
 
