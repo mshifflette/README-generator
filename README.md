@@ -27,6 +27,13 @@ npm i
 
 This application is used to reduce the amount of time it takes to create a read-me file for your repository.
 
+After you have installed required dependencies, open integrated terminal for the index.js file and run this command line to run the application.
+
+```
+node index.js
+```
+
+The generated README.md file will be created inside of the generated-READMEs folder.
 ## License
 
 This project is licensed under the The MIT License(not actually)
