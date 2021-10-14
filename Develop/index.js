@@ -82,7 +82,7 @@ inquirer.prompt([
       }
       }
     renderLicenseBadge();
-    const filename = `../README.MD`;
+    const filename = `./README.MD`;
     let content = `
 # ${data.projectname}
 ${badge}
