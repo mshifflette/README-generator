@@ -14,32 +14,23 @@ This project generates a readme file based on user input.
 
 * [License](#license)
 
-* [Contributing](#contributing)
-
-* [Tests](#tests)
-
 * [Questions](#questions)
 
 ## Installation
+Run this command to install dependencies.
 
+```
 npm i
-
+```
 
 ## Usage
 
-used to reduce time it takes to create a readme
+This application is used to reduce the amount of time it takes to create a read-me file for your repository.
 
 ## License
 
-This project is licensed under the The MIT License
+This project is licensed under the The MIT License(not actually)
     
-## Contributing
-
-dont
-
-## Tests
-
-dont
 
 ## Questions
 
