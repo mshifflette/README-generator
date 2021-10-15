@@ -6,6 +6,9 @@
 
 This project generates a readme file based on user input.
 
+## Video Demonstration 
+
+Link to a short video demonstration -- https://www.youtube.com/watch?v=gB6p4Ehwqx8
 ## Table of Contents 
 
 * [Installation](#installation)
